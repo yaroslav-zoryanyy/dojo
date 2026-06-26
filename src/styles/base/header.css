@@ -1,0 +1,36 @@
+#header{
+    background-color: #000000;
+    padding: 16px 48px;
+    border-bottom: 3px solid #434141;
+}
+.header_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_icon{
+    width: 73px;
+    height: 48px;
+    cursor: pointer;
+}
+.header_icon img{
+    object-fit: cover;
+    width: 100%;
+}
+.header_menu__list{
+    display: flex;
+    gap: 0 32px;
+}
+.header_menu__item{
+    cursor: pointer;
+    color: #EBBBB4;
+}
+.header_menu__item a{
+    color: #EBBBB4;
+}
+.header_btn{
+    padding: 12px 24px;
+    background-color: #FF5540;
+    color: #fff;
+    border-radius: 15px;
+}
