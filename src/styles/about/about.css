@@ -1,0 +1,43 @@
+#about{
+    background: #000000;
+    padding: 80px 48px;
+}
+.about_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/*left*/
+.about_inner--left{
+    position: relative;
+}
+.about_btn{
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    max-width: 200px;
+    padding: 26px;
+    background-color: #FF513D;
+    border: 3px solid #000000 ;
+    border-radius:16px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+
+/*right*/
+.about_inner--right{
+    display: flex;
+    flex-direction: column;
+    gap: 23px 0;
+    max-width: 560px;
+}
+.about_right--title{
+    color: #E2E2E2;
+    font-size: 40px;
+}
+.about_right--subtitle{
+    font-size: 18px;
+    color: #EBBBB4;
+}

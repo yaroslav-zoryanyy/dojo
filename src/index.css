@@ -2,6 +2,7 @@
 @import "./styles/reset.css";
 @import "./styles/base/header.css";
 @import "./styles/hero/hero.css";
+@import "./styles/about/about.css";
 
 
 body,html{
