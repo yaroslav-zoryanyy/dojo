@@ -1,7 +1,9 @@
+import HeroSection from "../component/hero/HeroSection.tsx";
+
 const HomePage = () => {
     return (
         <>
-            hello
+           <HeroSection/>
         </>
     );
 };
