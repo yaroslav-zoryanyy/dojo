@@ -3,6 +3,7 @@
 @import "./styles/base/header.css";
 @import "./styles/hero/hero.css";
 @import "./styles/about/about.css";
+@import "./styles/program/program.css";
 
 
 body,html{
@@ -20,6 +21,7 @@ body,html{
 
 #main{
   flex: 1 ;
+  background-color: #000000;
 }
 
 .container {
