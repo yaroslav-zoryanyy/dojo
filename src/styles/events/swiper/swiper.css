@@ -1,6 +1,7 @@
 .events_slide{
     border-radius: 15px;
     background-color: #1F1F1F;
+    overflow:hidden;
 }
 .events_slide--top{
     position: relative;
