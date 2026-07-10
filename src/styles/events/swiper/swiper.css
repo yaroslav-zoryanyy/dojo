@@ -1,0 +1,32 @@
+.events_slide{
+    border-radius: 15px;
+    background-color: #1F1F1F;
+}
+.events_slide--top{
+    position: relative;
+}
+.events_slide--top img{
+    width: 100%;
+}
+.events_top--accent{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    padding: 4px 12px;
+    color: #fff;
+    font-size: 12px;
+    background-color: #FF5540;
+    border-radius: 4px;
+}
+.events_slide--bottom{
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    gap: 8px 0;
+}
+.events-bottom--title{
+    color: #E2E2E2;
+}
+.events-bottom--link{
+    color: #FF5540;
+}

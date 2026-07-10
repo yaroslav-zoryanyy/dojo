@@ -4,7 +4,8 @@
 @import "./styles/hero/hero.css";
 @import "./styles/about/about.css";
 @import "./styles/program/program.css";
-
+@import "./styles/events/events.css";
+@import "./styles/events/swiper/swiper.css";
 
 body,html{
   font-family: "Montserrat", sans-serif;
