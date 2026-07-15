@@ -4,6 +4,7 @@ import ProgramSection from "../component/program/ProgramSection.tsx";
 import EventsSection from "../component/events/EventsSection.tsx";
 import LocationsSection from "../component/locations/LocationsSection.tsx";
 import CoachesSection from "../component/coaches/CoachesSection.tsx";
+import PricingSection from "../component/pricing/PricingSection.tsx";
 
 const HomePage = () => {
     return (
@@ -14,6 +15,7 @@ const HomePage = () => {
             <EventsSection/>
             <LocationsSection/>
             <CoachesSection/>
+            <PricingSection/>
         </>
     );
 };
