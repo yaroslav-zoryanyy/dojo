@@ -8,6 +8,9 @@
 @import "./styles/events/swiper/swiper.css";
 @import "./styles/locations/locations.css";
 @import "./styles/locations/swiper/location_swiper.css";
+@import "./styles/coaches/coaches.css";
+@import "./styles/coaches/swiper/coaches_swiper.css";
+
 
 body,html{
   font-family: "Montserrat", sans-serif;

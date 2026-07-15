@@ -3,6 +3,7 @@ import AboutSection from "../component/about/AboutSection.tsx";
 import ProgramSection from "../component/program/ProgramSection.tsx";
 import EventsSection from "../component/events/EventsSection.tsx";
 import LocationsSection from "../component/locations/LocationsSection.tsx";
+import CoachesSection from "../component/coaches/CoachesSection.tsx";
 
 const HomePage = () => {
     return (
@@ -12,6 +13,7 @@ const HomePage = () => {
             <ProgramSection/>
             <EventsSection/>
             <LocationsSection/>
+            <CoachesSection/>
         </>
     );
 };
